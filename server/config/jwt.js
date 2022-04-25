@@ -1,0 +1,3 @@
+const JWT_SECRET_KEY = "ASDGASDFASDFASDF";
+
+export default JWT_SECRET_KEY;
