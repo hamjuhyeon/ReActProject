@@ -6,7 +6,7 @@
 ## 3. 기술 스택 : 
 - FrontEnd 
     -html,javascript(ES6),css,React
--BackEnd
+- BackEnd
     -node js,aws mysql
 
 ## 4. 개발 기간
